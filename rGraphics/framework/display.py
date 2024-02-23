@@ -6,11 +6,12 @@ class display:
         self.title = settings[1][6:].strip()
 
         sdl2.ext.init()
-        window = sdl2.ext.Window(self.title, size=self.wsize)
-        window.show()
-        
-        processor = sdl2.ext.TestEventProcessor()
-        processor.run(window)
+        self.window = sdl2.ext.Window(self.title, size=self.wsize)
+        self.window.show()
     
-    def load_object(self):
-        return 
+    def load_object(self, object):
+        attributes=object.bitattributes()
+        print(attributes)
+    
+    def retrive_wdata(self):
+        return self.window
