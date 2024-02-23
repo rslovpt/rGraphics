@@ -1,0 +1,18 @@
+rGraphics Planning
+
+Core System/Components:
+	- Main Interface (COMPLETED)
+	- 2D & 3D Objects (3D Voxel Preferably)
+	- 2D/3D Space Switch (Z-Axis Compliant)
+	- Image Loader
+	- Frame System w/ pysdl2
+	- Built-In's (Delta Time, Physics, Screen Resize-Auto, More Soon)
+
+Additional:
+	* Video Loader
+	* 3D Shapes (Voxel-Polygon Switch Option)
+	* Built-In Camera System (3D Space Only, most likely not to be built in and must be done outside)
+
+Final:
+	- Publish Engine to a Public Library
+	- Final Changes and Improvements
