@@ -4,7 +4,7 @@ Core System/Components:
 	- Main Interface (COMPLETED)
 	- 2D & 3D Objects (3D Voxel Preferably)
 	- 2D/3D Space Switch (Z-Axis Compliant)
-	- Image Loader
+	- Image Loader Base (COMPLETED)
 	- Frame System w/ pysdl2
 	- Built-In's (Delta Time, Physics, Screen Resize-Auto, More Soon)
 

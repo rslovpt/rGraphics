@@ -20,4 +20,4 @@ class rgraphic:
         return image()
     def run_program(self, screen):
         rt = runtime(screen)
-        rt.init_rt()
+        rt.init_dobl_rt()
