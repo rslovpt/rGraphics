@@ -1,1 +1,1 @@
-A pysdl2 wrapper custom made library for easier use in app/game development.
+A pysdl2 wrapper which I turned into a custom library for easier use in app/game development.
